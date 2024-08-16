@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@SilverSURF/pwa-test-14",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "repository": "https://github.com/mihalchukdenis/loro-testnet-example-pwa/",
   "scripts": {
     "dev": "next dev",
