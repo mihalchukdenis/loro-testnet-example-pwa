@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "@SilverSurfer/pwa-22",
-  "version": "0.1.38",
+  "name": "@SilverSurfer/pwa-tt-22",
+  "version": "0.1.32",
   "repository": "https://github.com/mihalchukdenis/loro-testnet-example-pwa/",
   "scripts": {
     "dev": "next dev",
